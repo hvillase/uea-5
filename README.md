@@ -9,10 +9,12 @@ Introducción a HTML5
 ## Clase 2
 
 ## Evaluación
+### Unidade de contenido
 Actividades escritas 40%  
 Actividades de programación 40%  
 Actividades orales 20%  
-Eje integrador 40% del total de la calificación.  
+### Eje integrador
+Proyecto final 40% del total de la calificación.  
 ## Coloquios
 Coloquio 1: Propuesta. Jueves 23 de febrero, 10am  
 Coloquio 2: Avances. Martes 21, 10am  
