@@ -5,10 +5,16 @@ UAM Lerma 2023, Hernani Villaseñor
 
 ## Clase 1
 Introducción a HTML5. Etiquetas <html>, código fuente de una página web y 'hola mundo' con html.  
-Recursos: [W3schools](https://www.w3schools.com)   
+Recursos: [3Wschools](https://www.w3schools.com)   
 
 ## Clase 2
-Programación de mi primera página web
+Programación de mi primera página web. El editor de código. Programación de dos páginas. Vinvulación (link). Foto.  
+Editores de código:  
+[Notepa++]  
+[Sublime Text]  
+[Visual Code Studio](https://code.visualstudio.com/)  
+Plataforma de desarrollo:  
+[GitHub]
 
 ## Evaluación
 ### Unidade de contenido
