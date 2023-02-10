@@ -4,9 +4,11 @@ Comunicación creativa en la cultura digital
 UAM Lerma 2023, Hernani Villaseñor
 
 ## Clase 1
-Introducción a HTML5
+Introducción a HTML5. Etiquetas <html>, código fuente de una página web y 'hola mundo' con html.  
+Recursos: W3schools   
 
 ## Clase 2
+Programación de mi primera página web
 
 ## Evaluación
 ### Unidade de contenido
