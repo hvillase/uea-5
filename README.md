@@ -9,13 +9,14 @@ Recursos: [3Wschools](https://www.w3schools.com)
 
 ## Clase 2
 Programación de mi primera página web. El editor de código. Programación de dos páginas. Vinvulación (link). Foto.  
-Editores de código:  
+**Editores de código**:  
 [Notepa++]  
 [Sublime Text]  
 [Visual Code Studio](https://code.visualstudio.com/)  
-Plataforma de desarrollo:  
+**Plataforma de desarrollo**:  
 [GitHub]
-
+## Clase 3
+Cascading Style Sheets (CSS) [tutorial](https://www.w3schools.com/css/css_intro.asp)  
 ## Evaluación
 ### Unidade de contenido
 Actividades escritas 40%  
