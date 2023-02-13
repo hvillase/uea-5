@@ -17,8 +17,15 @@ Programación de mi primera página web. El editor de código. Programación de 
 [GitHub]
 ## Clase 3
 Cascading Style Sheets (CSS) [tutorial](https://www.w3schools.com/css/css_intro.asp)  
+### Tarea 1
+página web con:  
+index y segunda página  
+ligadas entre ellas  
+con una foto  
+con hoja de casdada de estilo externa css  
+
 ## Evaluación
-### Unidade de contenido
+### Unidad de contenido
 Actividades escritas 40%  
 Actividades de programación 40%  
 Actividades orales 20%  
