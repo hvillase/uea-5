@@ -17,6 +17,10 @@ Programación de mi primera página web. El editor de código. Programación de 
 [GitHub]
 ## Clase 3
 Cascading Style Sheets (CSS) [tutorial](https://www.w3schools.com/css/css_intro.asp)  
+## Clase 4
+[¿Que es un sitio web?](https://es.wikipedia.org/wiki/Sitio_web)  
+
+## TAREAS
 ### Tarea 1
 página web con:  
 index y segunda página  
@@ -35,3 +39,6 @@ Proyecto final 40% del total de la calificación.
 Coloquio 1: Propuesta. Jueves 23 de febrero, 10am  
 Coloquio 2: Avances. Martes 21, 10am  
 Coloquio 3: Final. Lunes 17, 12 pm  
+
+## Recursos
+[Selector de Color HTML](https://www.w3schools.com/colors/colors_picker.asp)  
