@@ -10,7 +10,7 @@ Recursos: [3Wschools](https://www.w3schools.com)
 ## Clase 2
 Programación de mi primera página web. El editor de código. Programación de dos páginas. Vinvulación (link). Foto.  
 **Editores de código**:  
-[Notepa++]  
+[Notepap++]  
 [Sublime Text]  
 [Visual Code Studio](https://code.visualstudio.com/)  
 **Plataforma de desarrollo**:  
@@ -21,12 +21,12 @@ Cascading Style Sheets (CSS) [tutorial](https://www.w3schools.com/css/css_intro.
 [¿Que es un sitio web?](https://es.wikipedia.org/wiki/Sitio_web)  
 
 ## TAREAS
-### Tarea 1
-página web con:  
-index y segunda página  
-ligadas entre ellas  
-con una foto  
-con hoja de casdada de estilo externa css  
+### Tarea 1 (clase 3)
+Página web en repositorio github con:  
+1 Index y segunda página  
+2 ligadas entre ellas  
+3 con una foto  
+4 con hoja de casdada de estilo externa css  
 
 ## Evaluación
 ### Unidad de contenido
