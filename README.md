@@ -22,11 +22,12 @@ Cascading Style Sheets (CSS) [tutorial](https://www.w3schools.com/css/css_intro.
 Sube tu web site a [github pages](https://pages.github.com/)   
 ## TAREAS
 ### Tarea 1 (clase 3)
-Página web en repositorio github con:  
-1 Index y segunda página  
-2 ligadas entre ellas  
-3 con una foto  
-4 con hoja de casdada de estilo externa css  
+Sube el código de un sitio web a tu repositorio github con las siguientes características:  
+1 index y una segunda página  
+2 ligadas entre ellas con un vínculo  
+3 incluye una foto en el index o en la segunda página  
+4 utiliza una hoja de casdada de estilo externa css  
+5 la estructura del sitio web debe tener el index y las carpetas de html, imagen y estilo con los archivos correpondientes (ver diagrama de la carpeta de la clase 4)  
 
 ## Evaluación
 ### Unidad de contenido
