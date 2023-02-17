@@ -10,16 +10,16 @@ Recursos: [3Wschools](https://www.w3schools.com)
 ## Clase 2
 Programación de mi primera página web. El editor de código. Programación de dos páginas. Vinvulación (link). Foto.  
 **Editores de código**:  
-[Notepap++]  
-[Sublime Text]  
-[Visual Code Studio](https://code.visualstudio.com/)  
+[Notepad++](https://notepad-plus-plus.org/) solo para Windows  
+[Sublime Text](https://www.sublimetext.com/) Multiplataforma (Mac, Win y Linux)  
+[Visual Code Studio](https://code.visualstudio.com/) Multiplataforma (Mac, Win, Linux)  
 **Plataforma de desarrollo**:  
 [GitHub]
 ## Clase 3
 Cascading Style Sheets (CSS) [tutorial](https://www.w3schools.com/css/css_intro.asp)  
 ## Clase 4
 [¿Que es un sitio web?](https://es.wikipedia.org/wiki/Sitio_web)  
-
+Sube tu web site a [github pages](https://pages.github.com/)   
 ## TAREAS
 ### Tarea 1 (clase 3)
 Página web en repositorio github con:  
