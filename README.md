@@ -21,7 +21,7 @@ Cascading Style Sheets (CSS) [tutorial](https://www.w3schools.com/css/css_intro.
 [¿Que es un sitio web?](https://es.wikipedia.org/wiki/Sitio_web)  
 Sube tu web site a [github pages](https://pages.github.com/)  
 ## Clase 5
-La etiqueta <div>. Sirve para separar fragmentos de texto con un formato especial.
+La etiqueta \<div\>. Sirve para separar fragmentos de texto con un formato especial.
 ## TAREAS
 ### Tarea 1 (clase 3)
 Sube el código de un sitio web a tu repositorio github con las siguientes características:  
