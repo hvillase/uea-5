@@ -46,5 +46,5 @@ Coloquio 3: Final. Lunes 17, 12 pm
 ## Recursos
 [w3schools](https://www.w3schools.com/)  
 [Selector de Color HTML](https://www.w3schools.com/colors/colors_picker.asp)  
-[140 nommbres de colores](https://www.w3schools.com/colors/colors_names.asp)
+[140 nommbres de colores](https://www.w3schools.com/colors/colors_names.asp)  
 [Desarrollo Mozilla](https://developer.mozilla.org/es/)  
