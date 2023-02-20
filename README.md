@@ -14,7 +14,7 @@ Programación de mi primera página web. El editor de código. Programación de 
 [Sublime Text](https://www.sublimetext.com/) Multiplataforma (Mac, Win y Linux)  
 [Visual Code Studio](https://code.visualstudio.com/) Multiplataforma (Mac, Win, Linux)  
 **Plataforma de desarrollo**:  
-[GitHub]
+[GitHub](https://github.com/)  
 ## Clase 3
 Cascading Style Sheets (CSS) [tutorial](https://www.w3schools.com/css/css_intro.asp)  
 ## Clase 4
