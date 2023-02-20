@@ -21,7 +21,7 @@ Cascading Style Sheets (CSS) [tutorial](https://www.w3schools.com/css/css_intro.
 [¿Que es un sitio web?](https://es.wikipedia.org/wiki/Sitio_web)  
 Sube tu web site a [github pages](https://pages.github.com/)  
 ## Clase 5
-La etiqueta \<div\>. Sirve para separar fragmentos de texto con un formato especial.
+La etiqueta \<div\>. Para crear bloques de texto con formato especial.
 ## TAREAS
 ### Tarea 1 (clase 3)
 Sube el código de un sitio web a tu repositorio github con las siguientes características:  
@@ -44,7 +44,7 @@ Coloquio 2: Avances. Martes 21, 10am
 Coloquio 3: Final. Lunes 17, 12 pm  
 
 ## Recursos
-w3schools
+[w3schools](https://www.w3schools.com/)  
 [Selector de Color HTML](https://www.w3schools.com/colors/colors_picker.asp)  
 [140 nommbres de colores](https://www.w3schools.com/colors/colors_names.asp)
 [Desarrollo Mozilla](https://developer.mozilla.org/es/)  
