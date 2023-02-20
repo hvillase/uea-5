@@ -5,7 +5,7 @@ UAM Lerma 2023, Hernani Villaseñor
 
 ## Clase 1
 Introducción a HTML5. Etiquetas <html>, código fuente de una página web y 'hola mundo' con html.  
-Recursos: [3Wschools](https://www.w3schools.com)   
+Recursos: [w3schools](https://www.w3schools.com)   
 
 ## Clase 2
 Programación de mi primera página web. El editor de código. Programación de dos páginas. Vinvulación (link). Foto.  
@@ -19,7 +19,9 @@ Programación de mi primera página web. El editor de código. Programación de 
 Cascading Style Sheets (CSS) [tutorial](https://www.w3schools.com/css/css_intro.asp)  
 ## Clase 4
 [¿Que es un sitio web?](https://es.wikipedia.org/wiki/Sitio_web)  
-Sube tu web site a [github pages](https://pages.github.com/)   
+Sube tu web site a [github pages](https://pages.github.com/)  
+## Clase 5
+La etiqueta <div>. Sirve para separar fragmentos de texto con un formato especial.
 ## TAREAS
 ### Tarea 1 (clase 3)
 Sube el código de un sitio web a tu repositorio github con las siguientes características:  
@@ -42,4 +44,7 @@ Coloquio 2: Avances. Martes 21, 10am
 Coloquio 3: Final. Lunes 17, 12 pm  
 
 ## Recursos
+w3schools
 [Selector de Color HTML](https://www.w3schools.com/colors/colors_picker.asp)  
+[140 nommbres de colores](https://www.w3schools.com/colors/colors_names.asp)
+[Desarrollo Mozilla](https://developer.mozilla.org/es/)  
