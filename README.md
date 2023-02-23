@@ -23,7 +23,8 @@ Sube tu web site a [github pages](https://pages.github.com/)
 ## Clase 5
 La etiqueta \<div\>. Para crear bloques de texto con formato especial.  
 [Bloque e inline](https://www.w3schools.com/html/html_blocks.asp)  
-
+## Clase 6
+Modelo de caja de CSS  
 ## TAREAS
 ### Tarea 1 (clase 3)
 Sube el código de un sitio web a tu repositorio github con las siguientes características:  
@@ -32,7 +33,8 @@ Sube el código de un sitio web a tu repositorio github con las siguientes carac
 3 incluye una foto en el index o en la segunda página  
 4 utiliza una hoja de casdada de estilo externa css  
 5 la estructura del sitio web debe tener el index y las carpetas de html, imagen y estilo con los archivos correpondientes (ver diagrama de la carpeta de la clase 4)  
-
+### Tarea 2
+Publica un sitio web que contenga un parrafo con la idea de tu proyecto  
 ## Evaluación
 ### Unidad de contenido
 Actividades escritas 40%  
