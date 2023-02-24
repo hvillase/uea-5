@@ -25,6 +25,8 @@ La etiqueta \<div\>. Para crear bloques de texto con formato especial.
 [Bloque e inline](https://www.w3schools.com/html/html_blocks.asp)  
 ## Clase 6
 Modelo de caja de CSS  
+## Clase 7
+Layout  
 ## TAREAS
 ### Tarea 1 (clase 3)
 Sube el código de un sitio web a tu repositorio github con las siguientes características:  

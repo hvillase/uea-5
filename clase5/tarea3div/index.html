@@ -1,14 +1,27 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 	<head>
+		<meta charset="UTF-8">
+		<title>Modelo de caja y más</title>
 		<style>
-		div{width:50%;
-			height:100px;
-			background-color:DeepPink;
+		div{width:350px;
+			height:200px;
+			background-color:Coral;
 			padding: 20px;
 			/*nuevas etiquetas*/
-			border-style: solid;
-			border-width: 5px;
+			border-style: dashed;
+			border-width: 10px;
+			margin: 20px;
+			}
+		.div2{
+			width:350px;
+			height:200px;
+			background-color:Aqua;
+			padding: 20px;
+			/*nuevas etiquetas*/
+			border-style: dashed;
+			border-width: 10px;
+			margin: 20px;	
 			}
 		</style>
 	</head>
@@ -16,7 +29,28 @@
 	<body>
 		<h1>vamos a ver la etiqueta div</h1>
 		<p>esto es un parrafo</p>
-		<div>esto es division de la etiqueta palabra palabra palabra plabra palabra palabra palabra palabra palara palabra palbta</div>
-		<div>rgb hjd djk dgh euior snm, shjk dgygu shue sgjhs shjk shk</div>
+		<div>esto es <span style="color: red; font-size:130%;">division</span> de la <span style="font-size:130%">etiqueta</span> palabra palabra palabra plabra palabra palabra palabra palabra palara palabra palbta</div>
+	<!-- eso es un comentario -->
+		<div class="div2">esta <b>division</b> tiene un <i>ancho</i> del 50% de la <small>pantalla</small>, un alto de 100 pixeles, un relleno <sup>(padding)</sup> de <sub>20</sub> pixeles, un borde solido con un ancho de 5 pixeles y un margen de 10 pixeles</div>
+	<!-- aqui va un video de archive -->	
+		<p><iframe src="https://archive.org/embed/ElephantsDream" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></p>
+	<p><iframe width="560" height="315" src="https://www.youtube.com/embed/zdRsY9rO9Jg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+	<!-- la siguiente sección contiene un boton con javascript -->
+		<p id="demo">Esta frase cambia al presionar el botón</p>
+		<button type="button" onclick='document.getElementById("demo").innerHTML="Hola"'>Presiona</button>
 	</body>
 	</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
