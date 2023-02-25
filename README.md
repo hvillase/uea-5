@@ -36,7 +36,7 @@ Sube el código de un sitio web a tu repositorio github con las siguientes carac
 4 utiliza una hoja de casdada de estilo externa css  
 5 la estructura del sitio web debe tener el index y las carpetas de html, imagen y estilo con los archivos correpondientes (ver diagrama de la carpeta de la clase 4)  
 ### Tarea 2
-Publica un sitio web que contenga un parrafo con la idea de tu proyecto  
+Publica un sitio web que contenga un párrafo con la idea de tu proyecto.  
 ## Evaluación
 ### Unidad de contenido
 Actividades escritas 40%  
