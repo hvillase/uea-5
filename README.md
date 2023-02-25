@@ -45,7 +45,7 @@ Actividades orales 20%
 ### Eje integrador
 Proyecto final 40% del total de la calificación.  
 ## Coloquios
-Coloquio 1: Propuesta. Jueves 23 de febrero, 10am  
+Coloquio 1: Propuesta. Lunes 27 de febrero, 10am  
 Coloquio 2: Avances. Martes 21, 10am  
 Coloquio 3: Final. Lunes 17, 12 pm  
 
