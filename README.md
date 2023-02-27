@@ -26,7 +26,10 @@ La etiqueta \<div\>. Para crear bloques de texto con formato especial.
 ## Clase 6
 Modelo de caja de CSS  
 ## Clase 7
-Layout  
+Layout o diseño HTML  
+Necesitamos:  
+[Eelementos y técnicas de diseño en HTML](https://www.w3schools.com/html/html_layout.asp#)  
+[Referencia CSS](https://www.w3schools.com/cssref/index.php)
 ## TAREAS
 ### Tarea 1 (clase 3)
 Sube el código de un sitio web a tu repositorio github con las siguientes características:  
