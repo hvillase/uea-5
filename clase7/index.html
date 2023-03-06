@@ -30,9 +30,16 @@
 	<nav><a href="html/bio.html">bio</a> asociaciones</nav>
 	
 	<section>
-		<p>Aquí voy a comenzar a poner una sección</p>
-		<p>Puedo escribir más cosas</p>
+		<p id="alicia">Este párrafo crece y se hace pequeño como Alicia</p>
+		
+		<p id="demo">Puedo escribir más cosas</p>
+		
+		<button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>Click Me!</button>
+		<button type="button" onclick="document.getElementById('alicia').style.fontSize='35px'">Crecer</button>
+		<button type="button" onclick="document.getElementById('alicia').style.fontSize='15px'">Decrecer</button>
+		<button type="button" onclick="document.getElementById('alicia').style.color='Aqua'">Color</button>
 	</section>
+	
 	
 	<footer>esto es footer o pie de página</footer>
 	
