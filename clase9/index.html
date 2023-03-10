@@ -7,20 +7,38 @@
 		<title>Funciones de javascript en head y body</title>
 		
 		<!-- coloca aquí el script-->
+		<script>
+			function miFuncion(){
+				document.getElementById("parrafo1").innerHTML="Hola mundo";
+			}
+		</script>
 		
 	</head>
 
 <body>		
-		<p>Este párrafo es afectado por la función del script de head</p>
+		<p id="parrafo1">Este párrafo es afectado por la función del script de head</p>
 		
-		<p>Este párrafo es afectado por la función del script de head</p>
+		<p id="parrafo2">Este párrafo es afectado por la función del script de head</p>
+	
+	    <p id="parrafo3">Este párrafo cambiará de color con el script de la carptea scripts</p>
 		
 		<!-- aquí van dos botones, el primero responde a la funcion del script de head, el segundo a la de body --> 
-		<button type="button" onclick="">head</button>
+		<button type="button" onclick="miFuncion()">head</button>
+		
+		<button type="button" onclick="miFuncion2()">body</button>
+	    
+		<button type="button" onclick="miFuncion3()">color</button>
 	
 	<!-- coloca aquí el script de body con una función -->
 	
+	<script>
+			function miFuncion2(){
+				document.getElementById("parrafo2").style.fontSize="35px";
+			}
+		</script>
+	
 	<!-- coloca aquí el vínculo hacia la carpeta de scripts externos --> 
+	<script src="scripts/scripts.js"></script>
 	
 </body>
 

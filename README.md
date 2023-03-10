@@ -28,8 +28,18 @@ Modelo de caja de CSS
 ## Clase 7
 Layout o diseño HTML  
 Necesitamos:  
-[Eelementos y técnicas de diseño en HTML](https://www.w3schools.com/html/html_layout.asp#)  
+[Elementos y técnicas de diseño en HTML](https://www.w3schools.com/html/html_layout.asp#)  
 [Referencia CSS](https://www.w3schools.com/cssref/index.php)
+## Clase 8
+Pantalla responsiva:  
+Introducción a JavaScript: getElementById()  
+## Clase 9
+JavaScript: la etiqueta <script>, el script en head, body y en carptea externa.  
+Funciones  
+Introducción al trabajo en equipo con GitHub: Roles, Fork y Pull Request
+## Clase 10
+Resolución de conflictos en GitHub  
+Pull Request y Merge  
 ## TAREAS
 ### Tarea 1 (clase 3)
 Sube el código de un sitio web a tu repositorio github con las siguientes características:  
@@ -59,3 +69,5 @@ Coloquio 3: Final. Lunes 17, 12 pm
 [Desarrollo Mozilla](https://developer.mozilla.org/es/)  
 ## Manifiestos
 [HTML Energy](http://html.energy/)  
+## Vínculos
+[HTML Energy](https://html.energy/)
