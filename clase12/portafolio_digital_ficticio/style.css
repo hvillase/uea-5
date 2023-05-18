@@ -1,0 +1,26 @@
+body {
+  background-color: RosyBrown;
+}
+
+h1 {
+	font-family: "Audiowide", sans-serif;
+  color: white;
+  text-align: center;
+}
+
+p {
+	font-family: "Trirong", sans-serif;
+  font-size: 20px;
+}
+
+div {
+	padding: 25px;
+	border-width: 5px;
+	border-style: dotted;
+	border-color: blue;
+	margin: 35px;
+}
+
+
+
+

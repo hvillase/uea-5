@@ -40,6 +40,8 @@ Introducción al trabajo en equipo con GitHub: Roles, Fork y Pull Request
 ## Clase 10
 Resolución de conflictos en GitHub  
 Pull Request y Merge  
+## Clase 13
+
 ## TAREAS
 ### Tarea 1 (clase 3)
 Sube el código de un sitio web a tu repositorio github con las siguientes características:  
