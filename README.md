@@ -69,8 +69,7 @@ Coloquio 3: Final. Lunes 17, 12 pm
 [Selector de Color HTML](https://www.w3schools.com/colors/colors_picker.asp)  
 [140 nombres de colores](https://www.w3schools.com/colors/colors_names.asp)  
 [Desarrollo Mozilla](https://developer.mozilla.org/es/)  
+[Bootstrap](https://getbootstrap.com)  
+[Glosario MDN](https://developer.mozilla.org/es/docs/Glossary)  
 ## Manifiestos
 [HTML Energy](http://html.energy/)  
-## Vínculos
-[HTML Energy](https://html.energy/)
-[Bootstrap](https://getbootstrap.com)
