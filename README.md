@@ -41,6 +41,9 @@ Introducción al trabajo en equipo con GitHub: Roles, Fork y Pull Request
 Resolución de conflictos en GitHub  
 Pull Request y Merge  
 ## Clase 13
+## Clase 15
+[GitHub Desktop](https://desktop.github.com/)  
+[Ayuda](https://docs.github.com/es/desktop)  
 
 ## TAREAS
 ### Tarea 1 (clase 3)
