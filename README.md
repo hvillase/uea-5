@@ -44,7 +44,12 @@ Pull Request y Merge
 ## Clase 15
 [GitHub Desktop](https://desktop.github.com/)  
 [Ayuda](https://docs.github.com/es/desktop)  
-
+## Clase 17
+Recursos para edición de imagen, video y sonido  
+Edición de fotografía: [gimp](https://www.gimp.org/)  
+Edición de vectores: [inkscape](https://inkscape.org/es/)  
+Edición de video: [openshot](https://www.openshot.org/es/)  
+Edición de sonido: [audacity](https://www.audacityteam.org/)  
 ## TAREAS
 ### Tarea 1 (clase 3)
 Sube el código de un sitio web a tu repositorio github con las siguientes características:  
