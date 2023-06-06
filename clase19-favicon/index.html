@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+	
+	<head>
+		<meta charset=utf-8>
+		<!--coloca el título aquí-->
+		<!--coloca el link de favicon aqui-->
+		<link rel="stylesheet" href="style.css">
+	</head>
+	
+	<body>
+		<h1>Popups y favicones</h1>
+		<div class="popup" onclick="myFunction()">Presiona aquí!
+			<span class="popuptext" id="myPopup">Algo que quiera</span>
+		</div>
+		<p>1 Cómo hacer popups.</p>
+		<p>2 Cómo hacer favicones:</p>
+		<p>Puedes usar inkspace, hacer un documento de 16 x 16 pixeles y salvarlo como png o ico.</p>
+		
+		<script>
+			// cuando usuario click en <div>, abre el popup
+			function myFunction() {
+				var popup = document.getElementById("myPopup");
+				popup.classList.toggle("show");
+			}
+		</script>
+	</body>
+</html>
