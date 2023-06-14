@@ -50,6 +50,8 @@ Edición de fotografía: [gimp](https://www.gimp.org/)
 Edición de vectores: [inkscape](https://inkscape.org/es/)  
 Edición de video: [openshot](https://www.openshot.org/es/)  
 Edición de sonido: [audacity](https://www.audacityteam.org/)  
+## Clase 21
+[generador-qr](https://parzibyte.me/apps/generador-qr/) Generador de códigos QR.
 ## TAREAS
 ### Tarea 1 (clase 3)
 Sube el código de un sitio web a tu repositorio github con las siguientes características:  
